@@ -1,6 +1,6 @@
 
-## ⚡ Calculadora de Consumo ElétricoUma
- ferramenta simples em Python desenvolvida para calcular o consumo de energia de aparelhos elétricos e estimar o impacto financeiro na conta de luz mensal.
+## ⚡ Calculadora de Consumo Elétrico
+Uma ferramenta simples em Python desenvolvida para calcular o consumo de energia de aparelhos elétricos e estimar o impacto financeiro na conta de luz mensal.
 
  ## 👤 AutorCarlos Marcelo
 
